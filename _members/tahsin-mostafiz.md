@@ -1,14 +1,17 @@
 ---
-name: Jane Smith
+name: Tahsin Mostafiz
 image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+role: phd
+affiliation: 
 aliases:
-  - J. Smith
-  - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  email: tahsin.mostafiz@uta.edu
+  github: john-doe
+  linkedin: fdf
+  twitter: dadf
+  youtube: add
+  home-page: 
+  orcid: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

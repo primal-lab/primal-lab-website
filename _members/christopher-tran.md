@@ -1,11 +1,13 @@
 ---
-name: Sarah Johnson
+name: Christopher Tran
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+role: undergrad
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: dd
+  github: john-doe
+  linkedin: fdf
+  twitter: dadf
+  youtube: add
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
