@@ -1,9 +1,11 @@
 ---
 title: Research
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
+
+Follow this template [Publication template](https://weiserevanslab.org/publications/)
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 

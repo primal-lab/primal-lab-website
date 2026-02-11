@@ -1,23 +1,17 @@
 ---
 name: Tahsin Mostafiz
-image: images/photo.jpg
+image: images/headshots/tahsin-mostafiz.png
 role: phd
 affiliation: 
 aliases:
 links:
   email: tahsin.mostafiz@uta.edu
-  github: john-doe
-  linkedin: fdf
-  twitter: dadf
-  youtube: add
-  home-page: 
-  orcid: 
+  github: tahsin314
+  linkedin: tahsin314
+  twitter: 314tahsin
+  youtube: adar314
+  home-page: https://tahsin314.github.io/
+  orcid: 0000-0003-3095-983X
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Tahsin is a Ph.D. student working under the supervision of Dr. Diego Patiño in the Department of Computer Science at the University of Texas at Arlington. He completed his master’s degree in the ECE Department at the University of Florida and received his B.Sc. in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET). His research interests include 3D computer vision, robotics, deep learning, and their applications. Outside of research, he enjoys traveling, cooking meals from his Bengali heritage, and watching science fiction movies.

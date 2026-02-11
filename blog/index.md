@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: News
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 5
+  tooltip: Exciting news at the PRIMAL Lab
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog

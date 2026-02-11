@@ -1,13 +1,7 @@
 ---
 ---
 
-# primal-lab's Website
-
-An engaging 1-3 sentence description of your lab.
-
 {% include section.html %}
-
-## Highlights
 
 {% capture text %}
 
@@ -79,3 +73,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+## News
+
+## Sponsors
+
+Our work is made possible by funding from several organizations.

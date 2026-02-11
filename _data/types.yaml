@@ -74,6 +74,16 @@ search:
   text: Search
   tooltip: Search
 
+bibtex:
+  icon: fa-quotes.svg
+  text: Cite
+  tooltip: Cite
+
+pdf:
+  icon: fa-solid fa-file-pdf
+  text: PDF file
+  tooltip: PDF file
+
 # social media
 
 orcid:
@@ -172,6 +182,11 @@ article:
   icon: fa-solid fa-newspaper
   text: Article
   tooltip: Article
+
+conference:
+  icon: fa-solid fa-newspaper
+  text: Conference
+  tooltip: Conference
 
 journal:
   icon: fa-regular fa-newspaper

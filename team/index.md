@@ -4,30 +4,27 @@ nav:
   order: 3
   tooltip: About our team
 ---
+{% include figure.html image="images/headshots/group-picture.png" width="90%" %}
+Meet our awesome team at the PRIMAL Lab. Below, you will find detailed information about our team members, their roles, and the research interest. Please do not hesitate to contact us regarding our work.
 
-# {% include icon.html icon="fa-solid fa-users" %} Team
-
-Below, you will find detailed information about our team members at the PRIMAL Lab. Please do not hesitate to contact us regarding our work.
-
-## Principal Investigator
-
+# {% include icon.html icon="fa-solid fa-microscope" %} Principal Investigator
 {% include list.html data="members" component="portrait" filters="role == 'principal-investigator'" %}
 
-## Students
+# {% include icon.html icon="fa-solid fa-users" %} Current Members
 {% include list.html data="members" component="portrait" filters="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filters="role == 'masters'" %}
 {% include list.html data="members" component="portrait" filters="role == 'undergrad'" %}
 
-## Alumni
-{% include list.html data="members" component="portrait" filters="role=='alumni'" %}
+# {% include icon.html icon="fa-solid fa-users" %} Alumni
+{% include list.html data="members" component="portrait" filters="role=='alumni'" style="small" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.jpg" dark=false %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Prospective students:** If you are a current student at UT Arlington then please fill out this form. Otherwise, please apply directly to the PhD program and mention my name in your application. 
 
 {% include section.html %}
+
+## Gallery
 
 {% capture content %}
 
