@@ -4,7 +4,7 @@ nav:
   order: 3
   tooltip: About our team
 ---
-{% include figure.html image="images/headshots/group-picture.png" width="90%" %}
+{% include figure.html image="images/site_style/group-picture.png" width="90%" %}
 Meet our awesome team at the PRIMAL Lab. Below, you will find detailed information about our team members, their roles, and the research interest. Please do not hesitate to contact us regarding our work.
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Principal Investigator
