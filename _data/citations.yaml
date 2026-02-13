@@ -1,271 +1,128 @@
-- authors:
-  - Rahul Vankuri
-  - Shafi Ullah Khan
-  - Talip Tolga Sari
-  - Gokhan Secinti
-  - Diego Patiño
-  - Roy Debashri
-  bibtex: '@inproceedings{Vankuri2025,<br/> author = {Vankuri, Rahul and Khan, Shafi
-    Ullah and Sari, Talip Tolga and Secinti, Gokhan and Patiño, Diego and Debashri,
-    Roy},<br/> booktitle = {IEEE Military Communications Conference (MILCOM)},<br/>
-    doi = {xxxx},<br/> title = {Waves of Imagination: Unconditional Spectrogram Generation
-    Using Diffusion Architectures},<br/> year = {2025}<br/>}<br/>'
-  buttons:
-  - link: doi:xxxx
-    text: Cite
-    type: bibtex
-  date: '2025-01-01'
-  id: doi:xxxx
-  image: images/pub_thumbnails/Vankuri2025_waves_of_imagination.png
-  link: https://ieeexplore.ieee.org/document/11310049
-  publisher: IEEE Military Communications Conference (MILCOM)
-  tags: []
-  title: 'Waves of Imagination: Unconditional Spectrogram Generation Using Diffusion
-    Architectures'
-- authors:
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1007/978-3-031-78447-7_20
+  title: "Enhancing Object Detection by\_Leveraging Large Language Models for\_Contextual\
+    \ Knowledge"
+  authors:
   - Amirreza Rouhi
-  - Diego Patiño
+  - "Diego Pati\xF1o"
   - David K. Han
-  bibtex: '@inproceedings{Rouhi2024,<br/> author = {Rouhi, Amirreza and Patiño, Diego
-    and Han, David K.},<br/> booktitle = {27th International Conference on Pattern
-    Recognition -  ICPR},<br/> doi = {10.1007/978-3-031-78447-7_20},<br/> editor =
-    {Antonacopoulos, Apostolos and Chaudhuri, Subhasis and Chellappa, Rama and Liu,
-    Cheng-Lin and Bhattacharya, Saumik and Pal, Umapada},<br/> isbn = {978-3-031-78447-7},<br/>
-    pages = {299--314},<br/> publisher = {Springer Nature Switzerland},<br/> title
-    = {Enhancing Object Detection by Leveraging Large Language Models for Contextual
-    Knowledge},<br/> year = {2024}<br/>}<br/>'
+  publisher: Lecture Notes in Computer Science
+  date: '2024-12-03'
+  link: https://doi.org/g9vtq7
+  orcid: 0000-0003-4808-8411
+  plugin: sources.py
+  file: sources.yaml
+  image: http://127.0.0.1:4000/images/pub_thumbnails/Rouhi2024_object_detection_context.png
   buttons:
-  - link: doi:10.1007/978-3-031-78447-7_20
-    text: Cite
-    type: bibtex
-  date: '2024-01-01'
-  id: doi:10.1007/978-3-031-78447-7_20
-  image: images/pub_thumbnails/Rouhi2024_object_detection_context.png
-  link: https://link.springer.com/chapter/10.1007/978-3-031-78447-7_20
-  publisher: 27th International Conference on Pattern Recognition -  ICPR
-  tags: []
-  title: Enhancing Object Detection by Leveraging Large Language Models for Contextual
-    Knowledge
-- authors:
-  - Diego Patiño
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+- id: doi:10.1109/LRA.2023.3280806
+  title: 'Learning to Navigate in Turbulent Flows With Aerial Robot Swarms: A Cooperative
+    Deep Reinforcement Learning Approach'
+  authors:
+  - "Diego Pati\xF1o"
   - Siddharth Mayya
   - Juan Calderon
   - Kostas Daniilidis
-  - David Saldaña
-  bibtex: '@article{Patino2023_turbulence,<br/> author = {Patiño, Diego and Mayya,
-    Siddharth and Calderon, Juan and Daniilidis, Kostas and Saldaña, David},<br/>
-    doi = {10.1109/LRA.2023.3280806},<br/> journal = {IEEE Robotics and Automation
-    Letters},<br/> number = {},<br/> pages = {1-8},<br/> title = {Learning to Navigate
-    in Turbulent Flows with Aerial Robot Swarms: A Cooperative Deep Reinforcement
-    Learning Approach},<br/> volume = {},<br/> year = {2023}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1109/LRA.2023.3280806
-    text: Cite
-    type: bibtex
-  - link: https://github.com/dipaco/robot_wind_navigation.git
-    text: Code
-    type: source
-  date: '2023-01-01'
-  id: doi:10.1109/LRA.2023.3280806
-  image: images/pub_thumbnails/Patino2023_RL_turbulence.png
-  link: https://ieeexplore.ieee.org/document/10137747
+  - "David Salda\xF1a"
   publisher: IEEE Robotics and Automation Letters
-  tags: []
-  title: 'Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A Cooperative
-    Deep Reinforcement Learning Approach'
-- authors:
-  - Diego Patiño
-  - Carlos Esteves
-  - Kostas Daniilidis
-  bibtex: '@inproceedings{Patino2022_levelset_mesher,<br/> author = {Patiño, Diego
-    and Esteves, Carlos and Daniilidis, Kostas},<br/> booktitle = {26th International
-    Conference on Pattern Recognition -  ICPR},<br/> doi = {10.1109/ICPR56361.2022.9956132},<br/>
-    pages = {161--174},<br/> project_page = {},<br/> title = {Level Set Mesher: Single-image
-    to 3D reconstruction by following the level sets of the signed distance function},<br/>
-    url = {https://ieeexplore.ieee.org/abstract/document/9402852},<br/> year = {2022}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1109/ICPR56361.2022.9956132
-    text: Cite
-    type: bibtex
-  - link: https://github.com/dipaco/cpma
-    text: Code
-    type: source
-  date: '2022-01-01'
-  id: doi:10.1109/ICPR56361.2022.9956132
-  image: images/pub_thumbnails/Patino2022_levelset_mesher.png
-  link: https://ieeexplore.ieee.org/document/9956132
-  publisher: 26th International Conference on Pattern Recognition -  ICPR
-  tags: []
+  date: '2023-07-01'
+  link: https://doi.org/g9vtq8
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icpr56361.2022.9956132
   title: 'Level Set Mesher: Single-image to 3D reconstruction by following the level
     sets of the signed distance function'
-- authors:
-  - Diego Patiño
-  - Karl Schmeckpeper
-  - Hita Gupta
-  - Georgios Georgakis
+  authors:
+  - Diego Patino
+  - Carlos Esteves
   - Kostas Daniilidis
-  bibtex: '@inproceedings{Patino2022_implicit_pose_shape,<br/> author = {Patiño, Diego
-    and Schmeckpeper, Karl and Gupta, Hita and Georgakis, Georgios and Daniilidis,
-    Kostas},<br/> booktitle = {ICRA 2022 - Workshop on Motion Planning with Implicit
-    Neural Representations of Geometry},<br/> doi = {aa},<br/> maintitle = {IEEE International
-    Conference on Robotics and Automation},<br/> title = {Self-supervised implicit
-    shape reconstruction and pose estimation for predicting the future},<br/> url
-    = {https://neural-implicit-workshop.stanford.edu/#accepted-papers},<br/> year
-    = {2022}<br/>}<br/>'
-  buttons:
-  - link: doi:aa
-    text: Cite
-    type: bibtex
-  date: '2022-01-01'
-  id: doi:aa
-  image: images/pub_thumbnails/Patino2022_implicit_pose_shape.png
-  link: https://neural-implicit-workshop.stanford.edu/#accepted-papers
-  publisher: ICRA 2022 - Workshop on Motion Planning with Implicit Neural Representations
-    of Geometry
-  tags: []
-  title: Self-supervised implicit shape reconstruction and pose estimation for predicting
-    the future
-- authors:
-  - Diego Patiño
-  - John W. Branch
-  bibtex: '@article{Patino2021_cpma,<br/> author = {Patiño, Diego and Branch, John
-    W.},<br/> doi = {10.1109/ACCESS.2021.3072},<br/> journal = {IEEE Access},<br/>
-    number = {},<br/> pages = {65466-65481},<br/> project_page = {cpma},<br/> title
-    = {Cosine-Pruned Medial Axis: A New Method for Isometric Equivariant and Noise-Free
-    Medial Axis Extraction},<br/> url = {https://ieeexplore.ieee.org/abstract/document/9402852},<br/>
-    volume = {9},<br/> year = {2021}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1109/ACCESS.2021.3072
-    text: Cite
-    type: bibtex
-  - link: https://github.com/dipaco/cpma
-    text: Code
-    type: source
-  date: '2021-01-01'
-  id: doi:10.1109/ACCESS.2021.3072
-  image: images/pub_thumbnails/Patino2021_cpma.png
-  link: https://ieeexplore.ieee.org/abstract/document/9402852
-  publisher: IEEE Access
-  tags: []
+  publisher: 2022 26th International Conference on Pattern Recognition (ICPR)
+  date: '2022-08-21'
+  link: https://doi.org/g9vtrb
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3072933
   title: 'Cosine-Pruned Medial Axis: A New Method for Isometric Equivariant and Noise-Free
     Medial Axis Extraction'
-- authors:
-  - Diego Patiño
-  - Alberto M. Ceballos-Arroyo
-  - Jairo A. Rodriguez-Rodriguez
-  - German Sanchez-Torres
-  - John W. Branch-Bedoya
-  bibtex: '@inproceedings{Patino2020_melanoma_classification,<br/> author = {Diego
-    Patiño and Alberto M. Ceballos-Arroyo and Jairo A. Rodriguez-Rodriguez and German
-    Sanchez-Torres and John W. Branch-Bedoya},<br/> booktitle = {15th International
-    Symposium on Medical Information Processing and Analysis},<br/> doi = {10.1117/12.2545300},<br/>
-    editor = {Eduardo Romero and Natasha Lepore and Jorge Brieva},<br/> keywords =
-    {Superpixel, Melanoma, Asymmetry, skin lesion classification, SVM, Linear regression,
-    Neural Network, color texture},<br/> organization = {International Society for
-    opt_ics and Photonics},<br/> pages = {1133018},<br/> publisher = {SPIE},<br/>
-    title = {Melanoma detection on dermoscopic images using  superpixels segmentation
-    and shape-based features},<br/> url = {https://doi.org/10.1117/12.2545300},<br/>
-    volume = {11330},<br/> year = {2020}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1117/12.2545300
-    text: Cite
-    type: bibtex
-  - link: https://github.com/dipaco/superpixel-skin-lesion-segmentation
-    text: Code
-    type: source
-  date: '2020-01-01'
-  id: doi:10.1117/12.2545300
-  image: images/pub_thumbnails/Patino2020_melanoma_classification.png
-  link: ''
-  publisher: 15th International Symposium on Medical Information Processing and Analysis
-  tags: []
+  authors:
+  - Diego Patino
+  - John W. Branch
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g9vtrc
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2545300
   title: Melanoma detection on dermoscopic images using  superpixels segmentation
     and shape-based features
-- authors:
-  - Diego Patiño
-  - Jonathan Avendaño
-  - John W. Branch
-  bibtex: '@inproceedings{Patino2018_skin_superpixels,<br/> address = {Cham},<br/>
-    author = {Patiño, Diego<br/>and Avendaño, Jonathan<br/>and Branch, John W.},<br/>
-    booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI
-    2018},<br/> doi = {10.1007/978-3-030-00937-3_83},<br/> editor = {Frangi, Alejandro
-    F.<br/>and Schnabel, Julia A.<br/>and Davatzikos, Christos<br/>and Alberola-López,
-    Carlos<br/>and Fichtinger, Gabor},<br/> isbn = {978-3-030-00937-3},<br/> pages
-    = {728--736},<br/> publisher = {Springer International Publishing},<br/> title
-    = {Automatic Skin Lesion Segmentation on Dermoscopic Images by the Means of Superpixel
-    Merging},<br/> url = {https://link.springer.com/chapter/10.1007/978-3-030-00937-3_83},<br/>
-    year = {2018}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1007/978-3-030-00937-3_83
-    text: Cite
-    type: bibtex
-  - link: https://github.com/dipaco/superpixel-skin-lesion-segmentation
-    text: Code
-    type: source
-  date: '2018-01-01'
-  id: doi:10.1007/978-3-030-00937-3_83
-  image: images/pub_thumbnails/Patino2018_skin_superpixels.png
-  link: https://link.springer.com/chapter/10.1007/978-3-030-00937-3_83
-  publisher: Medical Image Computing and Computer Assisted Intervention -- MICCAI
-    2018
-  tags: []
+  authors:
+  - Diego Patino
+  - Alberto Ceballos-Arroyo
+  - Jairo A. Rodriguez-Rodriguez
+  - German Sanchez-Torres
+  - John W. Branch Bedoya
+  publisher: 15th International Symposium on Medical Information Processing and Analysis
+  date: '2020-01-03'
+  link: https://doi.org/g9vtrd
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-00937-3_83
   title: Automatic Skin Lesion Segmentation on Dermoscopic Images by the Means of
     Superpixel Merging
-- authors:
-  - Jhon Edison Goez Mora
-  - Juan Camilo Londoño Lopera
-  - Diego Patiño
-  bibtex: '@inproceedings{Goez2018_parking_lots,<br/> address = {Cham},<br/> author
-    = {Goez Mora, Jhon Edison and Londoño Lopera, Juan Camilo and Patiño, Diego},<br/>
-    booktitle = {Applied Computer Sciences in Engineering},<br/> doi = {10.1007/978-3-030-00350-0_14},<br/>
-    editor = {Figueroa-García, Juan Carlos and López-Santana, Eduyn Ramiro and Rodriguez-Molano,
-    Jos{\''e} Ignacio},<br/> isbn = {978-3-030-00350-0},<br/> pages = {160--170},<br/>
-    publisher = {Springer International Publishing},<br/> title = {Automatic Visual
-    Classification of Parking Lot Spaces: A Comparison Between BoF and CNN Approaches},<br/>
-    url = {https://link.springer.com/chapter/10.1007/978-3-030-00350-0_14},<br/> year
-    = {2018}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1007/978-3-030-00350-0_14
-    text: Cite
-    type: bibtex
+  authors:
+  - "Diego Pati\xF1o"
+  - "Jonathan Avenda\xF1o"
+  - John W. Branch
+  publisher: Lecture Notes in Computer Science
   date: '2018-01-01'
-  id: doi:10.1007/978-3-030-00350-0_14
-  image: images/pub_thumbnails/Goez2018_parking_lots.png
-  link: https://link.springer.com/chapter/10.1007/978-3-030-00350-0_14
-  publisher: Applied Computer Sciences in Engineering
-  tags: []
+  link: https://doi.org/g9vtrf
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-00350-0_14
   title: 'Automatic Visual Classification of Parking Lot Spaces: A Comparison Between
     BoF and CNN Approaches'
-- authors:
-  - Juan C. Briñez de León
-  - Diego Patiño
-  - Alej
-  - ro Restrepo M
-  - John W. Branch
-  bibtex: '@inproceedings{BrinezdeLeon2017_photoelasticity,<br/> author = {Juan C.
-    Briñez de León and Diego Patiño and Alejandro Restrepo M and John W. Branch},<br/>
-    booktitle = {Imaging and Applied opt_ics 2017 (3D, AIO, COSI, IS, MATH, pcAOP)},<br/>
-    doi = {10.1364/ISA.2017.IM4E.2},<br/> journal = {Imaging and Applied opt_ics 2017
-    (3D, AIO, COSI, IS, MATH, pcAOP)},<br/> keywords = {Image analysis; Birefringence;
-    Algorithms ; Circular polarization; Digital imaging; Feature extraction; Light
-    intensity; Light wavelength; Strain},<br/> pages = {IM4E.2},<br/> publisher =
-    {opt_ica Publishing Group},<br/> title = {Computational Detection of Salient Information
-    to Identify High Stress and Ambiguity Regions in Digital Photoelasticity Images},<br/>
-    url = {https://opg.opt_ica.org/abstract.cfm?URI=ISA-2017-IM4E.2},<br/> year =
-    {2017}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1364/ISA.2017.IM4E.2
-    text: Cite
-    type: bibtex
-  date: '2017-01-01'
-  id: doi:10.1364/ISA.2017.IM4E.2
-  image: images/pub_thumbnails/BrinezdeLeon2017_photoelasticity.png
-  link: https://opg.opt_ica.org/abstract.cfm?uri=isa-2017-IM4E.2
-  publisher: Imaging and Applied opt_ics 2017 (3D, AIO, COSI, IS, MATH, pcAOP)
-  tags: []
+  authors:
+  - Jhon Edison Goez Mora
+  - "Juan Camilo Londo\xF1o Lopera"
+  - "Diego Alberto Pati\xF1o Cortes"
+  publisher: Communications in Computer and Information Science
+  date: '2018-01-01'
+  link: https://doi.org/g9vtrg
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/isa.2017.im4e.2
   title: Computational Detection of Salient Information to Identify High Stress and
     Ambiguity Regions in Digital Photoelasticity Images
-- authors:
+  authors:
+  - "Juan C. Bri\xF1ez de Le\xF3n"
+  - "Diego A. Pati\xF1o"
+  - Alejandro Restrepo M
+  - John W. Branch
+  publisher: Imaging and Applied Optics 2017 (3D, AIO, COSI, IS, MATH, pcAOP)
+  date: '2017-01-01'
+  link: https://doi.org/g9vtrh
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-015-1823-7
+  title: A clone-free, single molecule map of the domestic cow (Bos taurus) genome
+  authors:
   - Shiguo Zhou
   - Steve Goldstein
   - Michael Place
@@ -275,53 +132,70 @@
   - Prabu Ravindran
   - Louise Pape
   - Gonzalo Rincon
-  - Hern
-  - Juan ez-Ortiz
+  - Juan Hernandez-Ortiz
   - Juan F. Medrano
   - David C. Schwartz
-  bibtex: '@article{Zhou2015_genome,<br/> author = {Zhou, Shiguo and Goldstein, Steve
-    and Place, Michael and Bechner, Michael and Patino, Diego and Potamousis, Konstantinos
-    and Ravindran, Prabu and Pape, Louise and Rincon, Gonzalo and Hernandez-Ortiz,
-    Juan and Medrano, Juan F. and Schwartz, David C.},<br/> bdsk-url-1 = {https://doi.org/10.1186/s12864-015-1823-7},<br/>
-    bdsk-url-2 = {http://dx.doi.org/10.1186/s12864-015-1823-7},<br/> da = {2015/08/28},<br/>
-    date-added = {2022-10-12 18:07:15 +0000},<br/> date-modified = {2022-10-12 18:07:15
-    +0000},<br/> doi = {10.1186/s12864-015-1823-7},<br/> id = {Zhou2015},<br/> isbn
-    = {1471-2164},<br/> journal = {BMC Genomics},<br/> number = {1},<br/> pages =
-    {644},<br/> title = {A clone-free, single molecule map of the domestic cow (Bos
-    taurus) genome},<br/> ty = {JOUR},<br/> url = {https://doi.org/10.1186/s12864-015-1823-7},<br/>
-    volume = {16},<br/> year = {2015}<br/>}<br/>'
-  buttons:
-  - link: doi:10.1186/s12864-015-1823-7
-    text: Cite
-    type: bibtex
-  date: '2015-01-01'
-  id: doi:10.1186/s12864-015-1823-7
-  image: images/pub_thumbnails/Zhou2015_genome.png
-  link: https://link.springer.com/article/10.1186/s12864-015-1823-7
   publisher: BMC Genomics
-  tags: []
-  title: A clone-free, single molecule map of the domestic cow (Bos taurus) genome
-- authors:
-  - Diego Patiño
-  - Domingo Mery
-  - Fern
-  - Verónica Botero ez
-  - John Willian Branch
-  bibtex: '@inproceedings{patino2012_landforms_haralick,<br/> author = {Patiño, Diego
-    and Mery, Domingo and Fernandez, Verónica Botero and Branch, John Willian},<br/>
-    booktitle = {2012 XXXVIII Conferencia Latinoamericana En Informatica (CLEI)},<br/>
-    doi = {10.1109/CLEI.2012.6427164},<br/> number = {},<br/> pages = {1-8},<br/>
-    title = {Automatic landform clasification of uplands based on Haralick''s texture},<br/>
-    url = {https://ieeexplore.ieee.org/abstract/document/6427164},<br/> volume = {},<br/>
-    year = {2012}<br/>}<br/>'
+  date: '2015-08-28'
+  link: https://doi.org/gb3hnz
+  orcid: 0000-0003-4808-8411
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
-  - link: doi:10.1109/CLEI.2012.6427164
-    text: Cite
-    type: bibtex
-  date: '2012-01-01'
-  id: doi:10.1109/CLEI.2012.6427164
-  image: images/pub_thumbnails/Patino2012_landforms_haralick.png
-  link: https://ieeexplore.ieee.org/abstract/document/6427164
-  publisher: 2012 XXXVIII Conferencia Latinoamericana En Informatica (CLEI)
-  tags: []
-  title: Automatic landform clasification of uplands based on Haralick's texture
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
+  authors:
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
