@@ -25,7 +25,8 @@ img {
   height: 140px;
   width: auto;
   flex: 0 0 auto;
-  border-radius: 5px;
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);
   object-fit: cover;
   transition: transform 0.2s ease;
 }
@@ -48,4 +49,6 @@ img {
   height: 150px;     /* controls size */
   width: auto;
   object-fit: contain;
+  box-shadow: var(--shadow);
+  border-radius: var(--rounded)
 }

@@ -65,9 +65,14 @@ phone:
   link: tel:$VALUE
 
 address:
-  icon: fa-solid fa-map-location-dot
+  icon: fa-solid fa-map-pin
   text: Address
   tooltip: Address
+
+campus_map:
+  icon: fa-solid fa-map-location-dot
+  text: Campus Map
+  tooltip: Campus Map
 
 search:
   icon: fa-solid fa-magnifying-glass

@@ -39,3 +39,10 @@ Our lab is located in the Engineering Research Building (ERB), room - 128, near 
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/jXGV7XYB6omEXGdA7"
 %}
+
+{%
+  include button.html
+  type="campus_map"
+  tooltip="UTA Campus Map"
+  link="https://maps.uta.edu/?id=2229#!ct/88375,88409,88424,88425?s/"
+%}
